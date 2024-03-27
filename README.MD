@@ -10,7 +10,7 @@ will see what you can build using Ambar.
 - A Web Browser
 - A Secret String (email demo@ambar.cloud if you don't have one)
 - A Code Editor (optional)
-
+ 
 **Not Required**
 - Infrastructure (Ambar provides it)
 
